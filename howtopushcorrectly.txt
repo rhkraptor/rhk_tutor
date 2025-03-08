@@ -1,7 +1,3 @@
-#((Awesome! ?? Now that everything is set up, let's streamline your workflow for **pushing to GitHub and Hugging Face efficiently**.
-
----
-
 ### **?? Quick Commands for Pushing Code**
 You have two remotes:
 - `origin` ? GitHub
@@ -21,7 +17,6 @@ git commit -m "Your commit message"
 git push hf main
 ```
 
----
 
 ### **?? Automate Pushing to Both GitHub & Hugging Face at Once**
 You can push to both at the same time using:
@@ -34,7 +29,6 @@ To force push both in one command:
 git push origin main && git push hf main
 ```
 
----
 
 ### **?? Setup Automatic Mirroring**
 If you want **every GitHub push to automatically sync with Hugging Face**, follow these steps:
@@ -50,15 +44,9 @@ git push origin main
 ```
 This will push **both to GitHub & Hugging Face in one go**! ??
 
----
-
 ### **?? How to Check Your Remotes**
 Run:
 ```powershell
 git remote -v
 ```
 If it shows **both GitHub & Hugging Face** under `origin`, you’re all set!
-
----
-
-Now you won’t have to push twice manually! Let me know if you want further optimizations. ????))
