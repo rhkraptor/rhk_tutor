@@ -1,4 +1,4 @@
-#(Awesome! ?? Now that everything is set up, let's streamline your workflow for **pushing to GitHub and Hugging Face efficiently**.
+#((Awesome! ?? Now that everything is set up, let's streamline your workflow for **pushing to GitHub and Hugging Face efficiently**.
 
 ---
 
@@ -61,4 +61,4 @@ If it shows **both GitHub & Hugging Face** under `origin`, you’re all set!
 
 ---
 
-Now you won’t have to push twice manually! Let me know if you want further optimizations. ????)
+Now you won’t have to push twice manually! Let me know if you want further optimizations. ????))
