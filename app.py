@@ -24,4 +24,4 @@ with gr.Blocks() as demo:
 
 # Run the App
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()
