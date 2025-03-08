@@ -2,21 +2,10 @@
 venv/
 .env/
 
-# Ignore cache and compiled Python files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ignore large model files
-*.safetensors
-*.bin
-
-# Ignore IDE and OS-specific files
-.vscode/
-.DS_Store
-.idea/
-*.log
-
 # Ignore Visual Studio cache files
 .vs/
+
+# Ignore binary files
+*.db
+*.db-wal
+*.db-shm
