@@ -4,6 +4,10 @@ venv/
 
 # Ignore Visual Studio cache files
 .vs/
+.venv/
+__pycache__/
+*.safetensors
+*.bin
 
 # Ignore binary files
 *.db
